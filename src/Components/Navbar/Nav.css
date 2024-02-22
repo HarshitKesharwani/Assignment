@@ -1,0 +1,12 @@
+nav {
+    display: flex;
+    border-bottom: 2px solid #ece6e6;
+   
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+   height: 1.3cm;
+   
+    z-index: 999;
+  background-color: rgb(45, 44, 55);
+  }
